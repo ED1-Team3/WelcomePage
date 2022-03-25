@@ -37,7 +37,6 @@
 
 <body>
 
-
   <!-- ======= Header ======= -->
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
@@ -779,7 +778,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-envelope"></i>
               <h3>Email Us</h3>
-              <p>contact@pivot-ar.com</p>
+              <p>contact@arr-viewer.com</p>
             </div>
           </div>
 
@@ -839,7 +838,7 @@
         <div class="row justify-content-center">
           <div class="col-lg-6">
             <h4>Join Our Newsletter</h4>
-            <p>Be the first to know on Pivot AR updates.</p>
+            <p>Be the first to know on ARr Viewer updates.</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
@@ -903,7 +902,7 @@
 -->
     <div class="container py-4">
       <div class="copyright">
-        &copy; Copyright <strong><span>Pivot AR</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>ARr Viewer</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->

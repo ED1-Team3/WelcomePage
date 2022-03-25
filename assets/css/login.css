@@ -5,6 +5,7 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
 html,body{
     
   display: grid;
@@ -194,3 +195,6 @@ form .btn input[type="submit"]{
   width: 50%;
 }
 
+.forgot {
+  text-align: center;
+}
